@@ -1,4 +1,4 @@
-# 🚀 55 Basic C Programs Collection  
+# 🚀 Basic C Programs Collection  
 
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg)
 ![Programs](https://img.shields.io/badge/Programs-55-success.svg)
