@@ -1,7 +1,7 @@
 # 🚀 Basic C Programs Collection  
 
 ![C Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Programs](https://img.shields.io/badge/Programs-55-success.svg)
+![Programs](https://img.shields.io/badge/Programs-100-success.svg)
 ![Level](https://img.shields.io/badge/Level-Beginner%20to%20Intermediate-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen.svg)
 
