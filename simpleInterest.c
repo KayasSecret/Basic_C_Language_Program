@@ -6,7 +6,8 @@ int main() {
     int pri_amount , time, rate;
     float Si_In;
 
-    
+    printf("Enter the Principal Amount - ");
+    scanf("%d", &pri_amount);
 
     printf("Enter the Time - ");
     scanf("%d", &time);
