@@ -37,5 +37,5 @@ It is specially designed for beginners who want to build strong programming logi
 ## 🛠️ How to Run  
 
 ```bash
-gcc filename.c -o output
-./output
+gcc first.c -o first.exe
+./firsr.exe
