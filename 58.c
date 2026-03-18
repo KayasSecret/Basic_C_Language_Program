@@ -47,19 +47,3 @@ struct Node* findMiddle(struct Node* head) {
 
     return slow;
 }
-
-int main() {
-    struct Node* head = NULL;
-
-    head = insertAtEnd(head, 10);
-    head = insertAtEnd(head, 20);
-    head = insertAtEnd(head, 30);
-    head = insertAtEnd(head, 40);
-
-    display(head);
-
-    struct Node* mid = findMiddle(head);
-    printf("Middle Element: %d\n", mid->data);
-
-    return 0;
-}
