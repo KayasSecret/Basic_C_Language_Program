@@ -57,3 +57,16 @@ void display(struct Node* head) {
     printf("NULL\n");
 }
 
+int main() {
+    struct Node* head = NULL;
+
+    head = insertAtEnd(head, 10);
+    head = insertAtEnd(head, 20);
+    head = insertAtEnd(head, 40);
+
+    head = insertAtPosition(head, 30, 3);
+
+    display(head);
+
+    return 0;
+}
