@@ -50,21 +50,3 @@ struct Node* reverse(struct Node* head) {
 
     return prev;
 }
-
-int main() {
-    struct Node* head = NULL;
-
-    head = insertAtEnd(head, 10);
-    head = insertAtEnd(head, 20);
-    head = insertAtEnd(head, 30);
-
-    printf("Original List:\n");
-    display(head);
-
-    head = reverse(head);
-
-    printf("Reversed List:\n");
-    display(head);
-
-    return 0;
-}
