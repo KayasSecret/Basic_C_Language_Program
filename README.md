@@ -9,7 +9,7 @@
 
 ## 📌 Description  
 
-This repository contains **55 basic C programs** covering fundamental to intermediate level concepts.  
+This repository contains **Basic C programs** covering fundamental to intermediate level concepts.  
 It is specially designed for beginners who want to build strong programming logic and core understanding of C language. 💻✨  
 
 > "Strong basics build strong programmers." 🚀  
